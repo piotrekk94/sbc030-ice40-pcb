@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ecp5)(type Legacy)(uri ${KIPRJMOD}/../kicad-lib/ecp5.lib)(options "")(descr ""))
+  (lib (name parts)(type Legacy)(uri ${KIPRJMOD}/../kicad-lib/parts.lib)(options "")(descr ""))
+  (lib (name hdmi-d)(type Legacy)(uri ${KIPRJMOD}/../kicad-lib/hdmi-d.lib)(options "")(descr ""))
+  (lib (name ice40)(type Legacy)(uri ${KIPRJMOD}/../kicad-lib/ice40.lib)(options "")(descr ""))
+  (lib (name esp32)(type Legacy)(uri ${KIPRJMOD}/../kicad-lib/ESP32.lib)(options "")(descr ""))
+)
